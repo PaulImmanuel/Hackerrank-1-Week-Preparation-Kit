@@ -1,2 +1,2 @@
-# Hackerrank-30days-of-code
-Solutions to the 30 days of code in Hackerrank
+# Hackerrank 1 Week Preparation Kit
+Solutions to the 1 Week Preparation Kit in Hackerrank
